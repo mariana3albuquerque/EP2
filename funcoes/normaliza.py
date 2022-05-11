@@ -7,3 +7,4 @@ def normaliza(continentes):
                 normalizada[keys]['continue'] = continente
         except: pass
     return normalizada
+
